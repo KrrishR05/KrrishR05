@@ -83,7 +83,7 @@ An AI-powered incident response system that learns from past incidents using sem
 
 <td width="33%" valign="top">
 
-### 🧠 Samvad-RAG *(In Progress)*
+### 🧠 Samvad-RAG
 
 A voice-first, multilingual RAG system designed for Indic-language retrieval with adaptive search, reranking, guardrails, and grounded responses.
 
